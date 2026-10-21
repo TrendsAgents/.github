@@ -1,6 +1,6 @@
 # Trends Agents
 
-See what's trending, and know if it lasts. Ready-made trend agents for Claude, Cursor and ChatGPT, on live data from Google Trends, TikTok, YouTube and Reddit.
+AI agents for trend analysis and trend forecasting. See what's trending on Google Trends, TikTok, YouTube and Reddit, and know whether it lasts, right inside Claude, Cursor and ChatGPT.
 
 - **Spot it:** what's rising right now on each platform
 - **Judge it:** growth, history and whether it is a spike or a lasting trend
